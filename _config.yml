@@ -4,7 +4,7 @@ SEOTitle: Blog by Prasun
 header-img: img/home-bg.jpg
 email: prasun.ieee@gmail.com
 description: "I aim to share insights on a variety of topics, drawing from my knowledge and experience to provide the best information possible."
-keyword: "Prasun Blog, ROS, ROS2, C++, Python"
+keyword: "Prasun Blog, ROS, ROS2, C++, Python, C"
 url: "https://prasun2712.github.io" # your host, for absolute URL
 baseurl: "/blogs" # for example, '/blog' if your blog hosted on 'host/blog'
 
