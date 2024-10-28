@@ -1,12 +1,9 @@
-Hey, I am Huang, Xuan (a.k.a. _@huxpro_). I worked on the [React Team](https://beta.reactjs.org/community/meet-the-team#react-core) at <del>Facebook</del>Meta.
+I am working on building my own startup with my experience in the field of Robotics.
 
-I considered myself as a hybrid between a software engineer specifically into the programming languages theories and implementations domain (i.e. compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection), and a creative technologiest deeply caring about many humanistic aspects (e.g. visual, sound, interaction) in UI and HCI in general.
+I worked with Accenture from January 2022 to April 2024 as a Technical Architect Associate Manager. My role involved creating technical architectures for Robotic Systems performing tasks like pick-and-pack, material handling and inspection, and integrating them with cloud and with end-user applications. Apart from leading and guiding my team, I have assisted solution architects in creating RFP responses for solutions involving Robotics applications. Prior to this, I worked in Tata Consultancy Services (TCS) as Team Lead for Robotic Systems.
 
-I also worked on the [Hermes JavaScript Engine](https://hermesengine.dev/), some other projects under the [Reality Labs (Research)](https://tech.fb.com/ar-vr/), and [ReasonML](https://reasonml.github.io/) (now [ReScript](https://rescript-lang.org/)) efforts at Meta (Facebook).
+I have experience in C, C++ and Python, expertise in Robot Operating System (ROS) architecture designing, System Integration and Cloud Robotics Framework. I have successfully demonstrated many POCs throughout my career. I have developed real-life robotic applications using libraries like OpenCV, PCL for vision and tools like Gazebo for simulation. I have also trained and imparted knowledge to new recruits for working with robots.
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at an unicorn startup company [Beijing Weiying (a.k.a. WePiao, now acquired by Maoyan)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me (now acquired by Alibaba)](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web site into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
-
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages, mainly supervised by [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/)) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
 
 ##### Appearence
 
